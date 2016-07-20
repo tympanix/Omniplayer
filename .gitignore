@@ -1,0 +1,6 @@
+# Python related
+venv
+*.pyc
+
+# Vagrant
+.vagrant
